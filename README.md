@@ -1,10 +1,10 @@
 
 # Sprint 2 Bases de dades
 
-[Entrega 2.1: Functions & Template Literals](https://github.com/danimorera/Sprint1/blob/main/Entrega1.js)
+[Entrega 2.1: Estructura de dades MySQL]-pending
 
-[Entrega 2.2 Classes & Arrow Functions](https://github.com/danimorera/Sprint1/blob/main/Entrega2.js)
+[Entrega 2.2: MySQL queries](https://github.com/danimorera/Sprint2/tree/master/Entrega%202_2)
 
-[Entrega 2.3 Promises & Callbacks](https://github.com/danimorera/Sprint1/blob/main/Entrega3.js)
+[Entrega 2.3: Estructura de dades MongoDB]-pending
 
-[Entrega 2.4 Async / Await](https://github.com/danimorera/Sprint1/blob/main/Entrega4.js)
+[Entrega 2.4: MongoDB queries]- pending
