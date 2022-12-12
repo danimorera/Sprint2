@@ -7,4 +7,4 @@
 
 [Entrega 2.3: Estructura de dades MongoDB]-pending
 
-[Entrega 2.4: MongoDB queries]- pending
+[Entrega 2.4: MongoDB queries](Entrega 2_4/queries.js)
