@@ -7,4 +7,4 @@
 
 [Entrega 2.3: Estructura de dades MongoDB]-pending
 
-[Entrega 2.4: MongoDB queries](Entrega 2_4/queries.js)
+[Entrega 2.4: MongoDB queries](https://github.com/danimorera/Sprint2/blob/master/Entrega%202_4/queries.js)
